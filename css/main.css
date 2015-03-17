@@ -7,4 +7,7 @@
 	-webkit-box-align: center;
 	align-items: center;
 	background-color: #CCC;
+	width:50%;
+	left:50%
+	right:auto;
 }

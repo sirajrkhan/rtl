@@ -262,3 +262,10 @@ nav a:hover{
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
 }
+
+html[dir="rtl"] #header-container {
+float: right;
+display: inline;
+margin-left: 0px;
+margin-right: 360px;
+}
